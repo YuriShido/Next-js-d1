@@ -27,7 +27,7 @@ const DUMMY_EVENTS = [
       location: 'Mexico',
       date: '2021-10-31',
       image: 'images/Day-of-the-Dead-event.jpeg',
-      isFeatured: true,
+      isFeatured: false,
     },
   ];
   
